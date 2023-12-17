@@ -19,6 +19,11 @@ redirect_from:
 
 <h4 align="center">Customized Software of OCT</h4>
 
+<center><img src="/images/exampleImage.png" alt="Example Images" width="1000"/></center>
+
+<h4 align="center">Images acquired using the aboved OCT</h4>
+
+
 
 
 
