@@ -30,6 +30,14 @@ redirect_from:
 <center><img src="/images/roboticImage.png" alt="roboticImage" width="1000"/></center>
 <h4 align="center">Vascular imaging of whole superficial brain'</h4>
 
+## [3] Robotic-OCT guided inspection and microsurgery of monolithic storage devices
+- Non-destructive detection of the underlying PCB traces of the MSD cards.
+- With proposed continuous scanning strategy, the robotic-OCT provides automatic, precise, flexible, and repeatable imaging with an adjustable field-of-view (FOV).
+- Combined with a laser ablation system, the robotic-OCT can serve as a microsurgical tool to selectively remove targeted areas of the insulating layer while only exposing relevant pins to enhance data recovery efficiency.
+
+
+
+
 
 
 
