@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-During my PhD study，a major theme of my research is about optical coherence tomography, propeling medical diagnostics and forensic methodologies forward. Some projects include:
+During my PhD study,a major theme of my research is about **optical coherence tomography, propeling medical diagnostics and forensic methodologies forward**. Some projects include:
 - [Multi-scale Multi-speed Optical Coherence Tomography Systems](#Multi-scale-Multi-speed-Optical-Coherence-Tomography-Systems)
   
 - [Robotic arm assisted large area OCT angiography](#Robotic-arm-assisted-large-area-OCT-angiography)
