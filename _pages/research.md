@@ -33,7 +33,7 @@ redirect_from:
 
 ### Relevent Publications
 - B. He et al., "[Whole Brain Micro-Vascular Imaging Using Robot Assisted Optical Coherence Tomography Angiography](https://ieeexplore.ieee.org/abstract/document/9991088)," in IEEE Journal of Selected Topics in Quantum Electronics, vol. 29, no. 4: Biophotonics, pp. 1-9, July-Aug. 2023
-- B.He et al. "[Optical coherence tomography angiography with adaptive multi‐time interval](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200340)"[J]. Journal of Biophotonics, 2023, 16(5): e202200340.
+- B. He et al. "[Optical coherence tomography angiography with adaptive multi‐time interval](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200340)"[J]. Journal of Biophotonics, 2023, 16(5): e202200340.
 
 
 
