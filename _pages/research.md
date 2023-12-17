@@ -21,6 +21,7 @@ redirect_from:
 <center><img src="/images/exampleImage.png" alt="Example Images" width="1000"/></center>
 <h4 align="center">Label-free Images acquired using the aboved OCT systems</h4>
 
+
 ## [2] Robotic arm assisted large area OCT angiography
 - Integrated OCT system into a 6-axis robotic arm to enhance its flexibility.
 - Proposed a simple method for calibrating OCT and Robotic coordinate.
@@ -29,6 +30,7 @@ redirect_from:
 
 <center><img src="/images/roboticImage.png" alt="roboticImage" width="1000"/></center>
 <h4 align="center">Vascular imaging of whole superficial brain'</h4>
+
 
 ## [3] Robotic-OCT guided inspection and microsurgery of monolithic storage devices
 - Non-destructive detection of the underlying PCB traces of the MSD cards.
