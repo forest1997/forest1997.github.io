@@ -31,6 +31,9 @@ redirect_from:
 <center><img src="/images/roboticImage.png" alt="roboticImage" width="1000"/></center>
 <h4 align="center">Vascular imaging of whole superficial brain</h4>
 
+### Relevent Publications
+- B. He et al., "[Whole Brain Micro-Vascular Imaging Using Robot Assisted Optical Coherence Tomography Angiography](https://ieeexplore.ieee.org/abstract/document/9991088)," in IEEE Journal of Selected Topics in Quantum Electronics, vol. 29, no. 4: Biophotonics, pp. 1-9, July-Aug. 2023
+
 
 ## [3] Robotic-OCT guided inspection and microsurgery of monolithic storage devices
 - Non-destructive detection of the underlying PCB traces of the MSD cards.
