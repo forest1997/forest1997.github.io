@@ -58,7 +58,7 @@ redirect_from:
 - Assessment of drug metabolism response in tumor vasculature.
 - Intraoperative OCT imaging of human being.
 
-<center><img src="/images/BrainTomor.png" alt="BrainTumor" width="1000"/></center>
+<center><img src="/images/BrainTumor.png" alt="BrainTumor" width="1000"/></center>
 <h4 align="center">Brain Tumor imaging</h4>
 
 
