@@ -30,13 +30,13 @@ author_profile: true
 [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-24-40106&id=464902)
 
 [9] Li, R., Hong, J., Zhou, X., Wang, C., Chen, Z., **He, B.**, ... & Zhang, X. (2021). SNR study on Fourier single-pixel imaging. New Journal of Physics, 23(7), 073025.
-[link](https://iopscience.iop.org/article/10.1088/1367-2630/ac0ed7)
+
 
 [10] Li, R., Yin, H., Hong, J., Wang, C., **He, B.**, Chen, Z., ... & Zhang, X. (2020). Speckle reducing OCT using optical chopper. Optics Express, 28(3), 4021-4031.
-[link](https://opg.optica.org/abstract.cfm?uri=oe-28-3-4021)
+
 
 [11] **Zhao, H. #**, **He, B.#**, Ding, Z., Tao, K., Lai, T., Kuang, H., ... & Liu, T. (2019). Automatic lumen segmentation in intravascular optical coherence tomography using morphological features. Ieee Access, 7, 88859-88869
-[link](https://ieeexplore.ieee.org/abstract/document/8752356)
+
 
 
 
