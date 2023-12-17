@@ -63,7 +63,7 @@ During my PhD study,a major theme of my research is about **optical coherence to
 - B. He. et al. (2023). "[Robotic-OCT guided inspection and microsurgery of monolithic storage devices](https://www.nature.com/articles/s41467-023-41498-x)". Nature Communications, 14(1), 5701.
 - Reported by [Tsinghua news website](https://www.tsinghua.edu.cn/info/1175/106659.htm).
 
-## Multi- functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor 
+## Multi-functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor 
 - Collaborating with the neurosurgery department of Tsinghua Chang Gung Hospital
 - Tumor detection and segmentation with deep learning: Unet-3D
 - Evaluation of tumor growth in mice using structural and 3D-vascular information.
