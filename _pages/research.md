@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [1]Multi-scale Multi-speed Optical Coherence Tomography Systems
+## [1] Multi-scale Multi-speed Optical Coherence Tomography Systems
 - Developed a high-resolution 120kHz 850nm SD-OCT system with 4µm isotropic resolution using self-designed wavenumber linear spectrometer.
 - Developed a 200kHz 1310nm SS-OCT system using Axsun laser with high SNR.
 - Developed a 10MHz 1310nm SS-OCT system using Pulse-stretched Mode-locked Laser.
