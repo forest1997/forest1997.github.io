@@ -17,11 +17,11 @@ redirect_from:
 
 <center><img src="/images/software.png" alt="OCT software using QT" width="1000"/></center>
 
-<h4 align="center">Customized Software of OCT system </h4>
+<h4 align="center">Customized Software of OCT systems</h4>
 
 <center><img src="/images/exampleImage.png" alt="Example Images" width="1000"/></center>
 
-<h4 align="center">Label-free Images acquired using the aboved OCT system</h4>
+<h4 align="center">Label-free Images acquired using the aboved OCT systems</h4>
 
 
 
