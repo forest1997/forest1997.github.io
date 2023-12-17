@@ -59,7 +59,11 @@ redirect_from:
 - Intraoperative OCT imaging of human being.
 
 <center><img src="/images/BrainTumor.png" alt="BrainTumor" width="1000"/></center>
-<h4 align="center">Brain Tumor imaging</h4>
+<h4 align="center">Brain Tumor imaging of Animals</h4>
+
+<center><img src="/images/BrainTumor2.png" alt="BrainTumor2" width="1000"/></center>
+<h4 align="center">Tumor imaging of Human</h4>
+
 
 
 
