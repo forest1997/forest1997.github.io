@@ -21,7 +21,7 @@ redirect_from:
 
 <center><img src="/images/exampleImage.png" alt="Example Images" width="1000"/></center>
 
-<h4 align="center">Images acquired using the aboved OCT</h4>
+<h4 align="center">Label-free Images acquired using the aboved OCT</h4>
 
 
 
