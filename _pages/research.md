@@ -18,7 +18,7 @@ During my PhD study，a major theme of my research is about the application of o
   
 - [Multi- functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor](#Multi-functional-Optical-coherence-tomography-towards-intraoperative-diagnose-of-Brain-Tumor)
   
--[High-speed pathology virtual staining technology based on deep learning](#High-speed-pathology-virtual-staining-technology-based-on-deep-learning)
+- [High-speed pathology virtual staining technology based on deep learning](#High-speed-pathology-virtual-staining-technology-based-on-deep-learning)
 
 ## Multi-scale Multi-speed Optical Coherence Tomography Systems
 - Developed a high-resolution 120kHz 850nm SD-OCT system with 4µm isotropic resolution using self-designed wavenumber linear spectrometer.
