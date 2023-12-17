@@ -16,11 +16,9 @@ redirect_from:
 - The OCT systems were controlled by a custom-built, multi-threaded graphical user interface software created using the QT platform, written in C++.
 
 <center><img src="/images/software.png" alt="OCT software using QT" width="1000"/></center>
-
 <h4 align="center">Customized Software of OCT systems</h4>
 
 <center><img src="/images/exampleImage.png" alt="Example Images" width="1000"/></center>
-
 <h4 align="center">Label-free Images acquired using the aboved OCT systems</h4>
 
 ## [2] Robotic arm assisted large area OCT angiography
@@ -28,6 +26,9 @@ redirect_from:
 - Proposed a simple method for calibrating OCT and Robotic coordinate.
 - Proposed an adaptive multiple-time interval OCTA with a time-efficient scanning protocol.
 - High resolution and large field imaging of an irregular sample: micro-vascular image of whole mouse brain.
+
+<center><img src="/images/roboticImage.png" alt="roboticImage" width="1000"/></center>
+<h4 align="center">Vascular imaging of whole superficial brain'</h4>
 
 
 
