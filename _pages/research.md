@@ -36,10 +36,10 @@ redirect_from:
 - Combined with a laser ablation system, the robotic-OCT can serve as a microsurgical tool to selectively remove targeted areas of the insulating layer while only exposing relevant pins to enhance data recovery efficiency.
 
 <center><img src="/images/MSD1.png" alt="PMSD1" width="1000"/></center>
-<h4 align="center">OCT reveals the hidden layout of MSDs'</h4>
+<h4 align="center">OCT reveals the hidden layout of MSDs</h4>
 
 <center><img src="/images/MSD3.png" alt="PMSD1" width="1000"/></center>
-<h4 align="center">OCT and laser ablation system are integrated'</h4>
+<h4 align="center">OCT and laser ablation system are integrated</h4>
 
 
 
