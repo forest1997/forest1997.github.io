@@ -12,7 +12,7 @@ redirect_from:
 During my PhD study，a major theme of my research is about the application of optical coherence tomography, propeling medical diagnostics and forensic methodologies forward. Some projects include:
 - [Multi-scale Multi-speed Optical Coherence Tomography Systems](#Multi-scale Multi-speed Optical Coherence Tomography Systems)
 
-## [1] Multi-scale Multi-speed Optical Coherence Tomography Systems
+## Multi-scale Multi-speed Optical Coherence Tomography Systems
 - Developed a high-resolution 120kHz 850nm SD-OCT system with 4µm isotropic resolution using self-designed wavenumber linear spectrometer.
 - Developed a 200kHz 1310nm SS-OCT system using Axsun laser with high SNR.
 - Developed a 10MHz 1310nm SS-OCT system using Pulse-stretched Mode-locked Laser.
@@ -25,7 +25,7 @@ During my PhD study，a major theme of my research is about the application of o
 <h4 align="center">Label-free Images acquired using the aboved OCT systems</h4>
 
 
-## [2] Robotic arm assisted large area OCT angiography
+## Robotic arm assisted large area OCT angiography
 - Integrated OCT system into a 6-axis robotic arm to enhance its flexibility.
 - Proposed a simple method for calibrating OCT and Robotic coordinate.
 - Proposed an adaptive multiple-time interval OCTA with a time-efficient scanning protocol.
@@ -40,7 +40,7 @@ During my PhD study，a major theme of my research is about the application of o
 
 
 
-## [3] Robotic-OCT guided inspection and microsurgery of monolithic storage devices
+## Robotic-OCT guided inspection and microsurgery of monolithic storage devices
 - Non-destructive detection of the underlying PCB traces of the MSD cards.
 - With proposed continuous scanning strategy, the robotic-OCT provides automatic, precise, flexible, and repeatable imaging with an adjustable field-of-view (FOV).
 - Combined with a laser ablation system, the robotic-OCT can serve as a microsurgical tool to selectively remove targeted areas of the insulating layer while only exposing relevant pins to enhance data recovery efficiency.
@@ -55,7 +55,7 @@ During my PhD study，a major theme of my research is about the application of o
 - B. He. et al. (2023). "[Robotic-OCT guided inspection and microsurgery of monolithic storage devices](https://www.nature.com/articles/s41467-023-41498-x)". Nature Communications, 14(1), 5701.
 - Reported by [Tsinghua news website](https://www.tsinghua.edu.cn/info/1175/106659.htm).
 
-## [4] Multi- functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor 
+## Multi- functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor 
 - Collaborating with the neurosurgery department of Tsinghua Chang Gung Hospital
 - Tumor detection and segmentation with deep learning: Unet-3D
 - Evaluation of tumor growth in mice using structural and 3D-vascular information.
@@ -71,7 +71,7 @@ During my PhD study，a major theme of my research is about the application of o
 ### Relevent Publications
 **Will coming soon**
 
-## [5] High-speed pathology virtual staining technology based on deep learning
+## High-speed pathology virtual staining technology based on deep learning
 
 <center><img src="/images/DCI1.png" alt="DCI1" width="1000"/></center>
 <h4 align="center"> Virtual staining of OCT based on deep learning</h4>
