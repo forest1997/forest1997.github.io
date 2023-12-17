@@ -64,7 +64,7 @@ redirect_from:
 <center><img src="/images/BrainTumor2.png" alt="BrainTumor2" width="1000"/></center>
 <h4 align="center">Tumor imaging of Human</h4>
 
-## High-speed pathology virtual staining technology based on deep learning
+## [5] High-speed pathology virtual staining technology based on deep learning
 
 <center><img src="/images/DCI1.png" alt="DCI1" width="1000"/></center>
 <h4 align="center"> Virtual staining of OCT based on deep learning</h4>
