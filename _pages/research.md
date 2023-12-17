@@ -17,7 +17,7 @@ redirect_from:
 
 <center><img src="/images/software.png" alt="OCT software using QT" width="1000"/></center>
 
-<h2 align="center">Customized Software of OCT</h2>
+<h4 align="center">Customized Software of OCT</h4>
 
 
 
