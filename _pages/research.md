@@ -29,7 +29,7 @@ redirect_from:
 - High resolution and large field imaging of an irregular sample: micro-vascular image of whole mouse brain.
 
 <center><img src="/images/roboticImage.png" alt="roboticImage" width="1000"/></center>
-<h4 align="center">Vascular imaging of whole superficial brain'</h4>
+<h4 align="center">Vascular imaging of whole superficial brain</h4>
 
 
 ## [3] Robotic-OCT guided inspection and microsurgery of monolithic storage devices
