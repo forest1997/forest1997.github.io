@@ -32,7 +32,7 @@ redirect_from:
 <h4 align="center">Vascular imaging of whole superficial brain</h4>
 
 ### Relevent Publications
-- B. He et al., "[Whole Brain Micro-Vascular Imaging Using Robot Assisted Optical Coherence Tomography Angiography](https://ieeexplore.ieee.org/abstract/document/9991088)," in IEEE Journal of Selected Topics in Quantum Electronics, vol. 29, no. 4: Biophotonics, pp. 1-9, July-Aug. 2023 (** feature article in [OCT news](https://octnews.org/)**)
+- B. He et al., "[Whole Brain Micro-Vascular Imaging Using Robot Assisted Optical Coherence Tomography Angiography](https://ieeexplore.ieee.org/abstract/document/9991088)," in IEEE Journal of Selected Topics in Quantum Electronics, vol. 29, no. 4: Biophotonics, pp. 1-9, July-Aug. 2023 (**feature article in [OCT news](https://octnews.org/)**)
 - B. He et al. "[Optical coherence tomography angiography with adaptive multi‐time interval](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200340)"[J]. Journal of Biophotonics, 2023, 16(5): e202200340. (**[cover paper](https://onlinelibrary.wiley.com/toc/18640648/2023/16/5)**)
 
 
