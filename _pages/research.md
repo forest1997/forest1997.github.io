@@ -52,8 +52,14 @@ redirect_from:
 - B. He. et al. (2023). "[Robotic-OCT guided inspection and microsurgery of monolithic storage devices](https://www.nature.com/articles/s41467-023-41498-x)". Nature Communications, 14(1), 5701.
 
 ## [4] Multi- functional Optical coherence tomography towards intraoperative diagnose of Brain Tumor 
+- Collaborating with the neurosurgery department of Tsinghua Chang Gung Hospital
+- Tumor detection and segmentation with deep learning: Unet-3D
+- Evaluation of tumor growth in mice using structural and 3D-vascular information.
+- Assessment of drug metabolism response in tumor vasculature.
+- Intraoperative OCT imaging of human being.
 
-
+<center><img src="/images/BrainTomor.png" alt="BrainTumor" width="1000"/></center>
+<h4 align="center">Brain Tumor imaging</h4>
 
 
 
