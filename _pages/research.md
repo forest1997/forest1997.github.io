@@ -84,6 +84,9 @@ During my PhD study,a major theme of my research is about **optical coherence to
 <center><img src="/images/DCI1.png" alt="DCI1" width="1000"/></center>
 <h4 align="center"> Virtual staining of OCT based on deep learning</h4>
 
+<center><img src="/images/HE3d.png" alt="DCI1" width="1000"/></center>
+<h4 align="center"> 3D Virtual staining of OCT based on deep learning</h4>
+
 ### Relevent Publications
 **Will coming soon**
 
