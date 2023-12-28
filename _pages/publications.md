@@ -10,7 +10,7 @@ author_profile: true
 [2] **He, B.**, Zhang, Y., Zhao, L., Sun, Z., Hu, X., Kang, Y., ... & Zhang, N. (2023). Robotic-OCT guided inspection and microsurgery of monolithic storage devices. Nature Communications, 14(1), 5701.
 [link](https://www.nature.com/articles/s41467-023-41498-x)
 
-[3] HU, Z., **He, B.**, Shi, Y., Wang, C., Chen, Z., Yin, Z., ... & Xue, P. (2023). High-speed k-linear swept laser using acousto-optic deflector with Doppler shift compensation. Optics Letter (accepted)
+[3] HU, Z., **He, B.**, Shi, Y., Wang, C., Chen, Z., Yin, Z., ... & Xue, P. (2023). High-speed k-linear swept laser using acousto-optic deflector with Doppler shift compensation. Optics Letters, 49(1), 101-104.
 [link](https://opg.optica.org/ol/upcoming_pdf.cfm?id=513516)
 
 [4] Wang, C., Yin, Z., **He, B.**, Chen, Z., Hu, Z., Shi, Y., ... & Xue, P. (2023). Polarization-isolated stretched-pulse mode-locked swept laser for 10.3-MHz A-line rate optical coherence tomography. Optics Letters, 48(15), 4025-4028.
