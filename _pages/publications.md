@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] **He, B.**, Shi, Y. ,...Ping Xue,  & Zhang, N. (2023). Autonomous Detection of Hidden Fingerprints by Object-Driven Robotic OCT. Nature Machine Intelligence （Submitted.
+[1] **He, B.**, Shi, Y. ,...Ping Xue,  & Zhang, N. (2023). Autonomous Detection of Hidden Fingerprints by Object-Driven Robotic OCT. Nature Machine Intelligence （Submitted）.
 
 [2] **He, B.**, Zhang, Y., Zhao, L., Sun, Z., Hu, X., Kang, Y., ... & Zhang, N. (2023). Robotic-OCT guided inspection and microsurgery of monolithic storage devices. Nature Communications, 14(1), 5701.
 [link](https://www.nature.com/articles/s41467-023-41498-x)
