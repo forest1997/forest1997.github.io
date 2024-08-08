@@ -28,7 +28,7 @@ author_profile: true
 [8] Zhang, W., **He, B.**, Wu, Y., Tao, Y., Zhu, F., Cai, W., ... & Xue, P. (2022). Tail artifacts removal of three‐dimensional optical coherence tomography angiography with common parts extraction method. Journal of Biophotonics, 15(11), e202200155.
 [link](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202200155)
 
-[9] Zhang, W., Chen, Z., Zhang, X., Wang, C., **He, B.**, Liu, N., ... & Xue, P. (2022, January). Dispersion measurement with optical computing optical coherence tomography. In Photonics (Vol. 9, No. 1, p. 48). MDPI.
+[9] Zhang, W., Chen, Z., Zhang, X., Wang, C., **He, B.**, Liu, N., ... & Xue, P. (2022, January). Dispersion measurement with optical computing optical coherence tomography.  Photonics (Vol. 9, No. 1, p. 48). MDPI.
 [link](https://www.mdpi.com/2304-6732/9/1/48)
 
 [10] Hong, J., Zhou, X., Xin, N., Chen, Z., **He, B.**, Hu, Z., ... & Zhang, X. (2021). Theoretical and experimental study of hybrid optical computing engine for arbitrary-order FRFT. Optics Express, 29(24), 40106-40115.
