@@ -6,7 +6,7 @@ author_profile: true
 ---
 [1] **He, B.**, Ying, Y. ,...Wang, G,  & Xue, P. (2024). First-in-human spinal cord tumor imaging with fast adaptive focus tracking robotic-OCT. **(In review)**.
 [link](https://export.arxiv.org/abs/2410.21809)
-
+[2] **Shi, Y. #**, **He, B.#**,...Wang,G.& Xue,P.(2024). Adaptive focusing optical coherence tomography for corneal imaging. **(In review)**
 [2] **He, B.**, Shi, Y. ,...Ping Xue,  & Zhang, N. (2024). Rapid, Autonomous and Ultra-Large-Area Detection of Latent Fingerprints Using Object-Driven Optical Coherence Tomography. **Optics Express**  32, 31090-31106.
 [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-18-31090&id=554537)
 
