@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] **Yin, Z. #**, **Bin He. #** , Yuzhe Ying,...Guihuai Wang & Ping Xue. (2025). Fast and label-free 3D virtual H&E histology via active modulation-assisted dynamic full-field OCT. **Npj imaging** (In production) .
+[1] **Yin, Z. #**, **He, B. #** , Yuzhe Ying,...Guihuai Wang & Ping Xue. (2025). Fast and label-free 3D virtual H&E histology via active modulation-assisted dynamic full-field OCT. **Npj imaging** (In production) .
 [link](https://arxiv.org/abs/2404.19641)
 
 [2] **Shi, Y. #**, **He, B.#**,...Wang,G.& Xue,P.(2025). Adaptive focusing optical coherence tomography for corneal imaging. **Optics Letters** (In production)
