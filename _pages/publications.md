@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] **Yin, Z. #**, **He, B. #** , Yuzhe Ying,...Guihuai Wang & Ping Xue. (2025). Fast and label-free 3D virtual H&E histology via active modulation-assisted dynamic full-field OCT. **Npj imaging** (2025) 3:12.
+[1] **Yin, Z. #**, **He, B. #** , Yuzhe Ying,...Guihuai Wang & Ping Xue. (2025). Fast and label-free 3D virtual H&E histology via active modulation-assisted dynamic full-field OCT. **Npj imaging**  3:12.
 [link](https://www.nature.com/articles/s44303-025-00068-0)
 
 [2] **Shi, Y. #**, **He, B.#**,...Wang,G.& Xue,P.(2025). Adaptive focusing optical coherence tomography for corneal imaging. **Optics Letters** 50, 896-899.
 [link](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-3-896)
 
-[3] **He, B.**, Ying, Y. ,...Wang, G,  & Xue, P. (2024). Intraoperative Fast Adaptive Focus Tracking Robotic OCTEnables Real-Time Tumor Grading and Large-AreaMicrovascular Imaging in Human Spinal Cord Surgery. **Advanced Science 2025, 12, 2503566**.
+[3] **He, B.**, Ying, Y. ,...Wang, G,  & Xue, P. (2025). Intraoperative Fast Adaptive Focus Tracking Robotic OCTEnables Real-Time Tumor Grading and Large-AreaMicrovascular Imaging in Human Spinal Cord Surgery. **Advanced Science, 12, 2503566**.
 [link](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202503566)
 
 [4] **He, B.**, Shi, Y. ,...Ping Xue,  & Zhang, N. (2024). Rapid, Autonomous and Ultra-Large-Area Detection of Latent Fingerprints Using Object-Driven Optical Coherence Tomography. **Optics Express**  32, 31090-31106.
