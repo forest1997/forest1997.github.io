@@ -12,7 +12,7 @@ author_profile: true
 [link](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-3-896)
 
 [3] **He, B.**, Ying, Y. ,...Wang, G,  & Xue, P. (2024). Intraoperative Fast Adaptive Focus Tracking Robotic OCTEnables Real-Time Tumor Grading and Large-AreaMicrovascular Imaging in Human Spinal Cord Surgery. **Advanced Science 2025, 12, 2503566**.
-[link](https://export.arxiv.org/abs/2410.21809)
+[link](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202503566)
 
 [4] **He, B.**, Shi, Y. ,...Ping Xue,  & Zhang, N. (2024). Rapid, Autonomous and Ultra-Large-Area Detection of Latent Fingerprints Using Object-Driven Optical Coherence Tomography. **Optics Express**  32, 31090-31106.
 [link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-18-31090&id=554537)
