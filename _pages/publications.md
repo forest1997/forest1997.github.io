@@ -7,6 +7,7 @@ author_profile: true
 
 [1] **He, B.**, Liu, K., Chen, C., Cheng, G., Zhang, G., Sun, Z., ... & Zhang, N. (2025). Robotic Raman‐OCT for Non‐Destructive Visualization of Concealed Latent Fingerprints and Trace‐Residue Profiling. **Small Methods**, e01251.
 [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202501251)
+
 [2] **Yin, Z. #**, **He, B. #** , Yuzhe Ying,...Guihuai Wang & Ping Xue. (2025). Fast and label-free 3D virtual H&E histology via active modulation-assisted dynamic full-field OCT. **Npj imaging**  3:12.
 [link](https://www.nature.com/articles/s44303-025-00068-0)
 
